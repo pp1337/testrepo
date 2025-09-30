@@ -1,0 +1,3 @@
+системное ПО: NVIDIA graphics driver, ssh
+прикладное ПО: PostgreSQL, AdguardVPN
+иструментное ПО: IDA PRO(дизассемблер), DnSpy(.NET дизассемблер)
